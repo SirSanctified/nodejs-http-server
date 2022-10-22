@@ -20,7 +20,8 @@ Objectives
 
 How to run it
 
-=> in the terminal type 'node index.js'
+=> in the terminal type 
+       >'node index.js'
 
 It will report that the server is running on localhost at port 8000
 
