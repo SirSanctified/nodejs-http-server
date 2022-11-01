@@ -30,8 +30,8 @@ It will report that the server is running on localhost at port 8000
 
     `localhost:8000/` or `localhost:8000/home` to access the home page
     
-    > `localhost:8000/about` to access the about page
+    `localhost:8000/about` to access the about page
     
-    > `localhost:8000/contact` to access the contact page
+    `localhost:8000/contact` to access the contact page
 
 => type `Ctrl+^C` in terminal to end server process
